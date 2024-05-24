@@ -22,6 +22,7 @@ class ScrapeCatagory:
 
 
     def main_handler(self, base_catagory_url: str, api_url: str) -> None:
+        print(f"[Autozone] Starting Scrape on {base_catagory_url}")
         # Send the inital request to the base catagory url
         with open("../database/proxies.txt", "r") as proxies_file:
             proxies_list = proxies_file.readlines()
@@ -75,11 +76,16 @@ class ScrapeCatagory:
         
         pricing_api_url = f"https://www.autozone.com/ecomm/b2c/v1/browse/skus/price/{','.join(product_skus_querry)}?storeNumber=4461"
         pricing_response = requests.get(pricing_api_url, headers=self.headers, cookies=self.cookies, proxies=resources_proxy_dict, timeout=10)
+        
         if "Internal Server Error" in pricing_response.text:
             print("Internal Server Error")
             return None
+        elif "Access Denied" in pricing_response.text:
+            print("Access Denied")
+            return None
 
         print("[Auzozone] Requesting Pricing")
+
         try:
 
             for index, product in enumerate(pricing_response.json()):
