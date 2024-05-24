@@ -1,0 +1,86 @@
+[
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/battery&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Fbatteries%2Fbattery&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/battery"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/alternator&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Falternators-and-charging-system%2Falternator&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/alternator"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/starter&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Fstarter-and-starting-system%2Fstarter&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/starter"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/battery-terminal&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Fbattery-cables-and-accessories%2Fbattery-terminal&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/battery-terminal"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/battery-cable&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Fbattery-cables-and-accessories%2Fbattery-cable&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/battery-cable"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/ignition-switch&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Fswitches-relays-and-sensors%2Fignition-switch&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/ignition-switch"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/starter-solenoid&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Fstarter-and-starting-system%2Fstarter-solenoid&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/starter-solenoid"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/neutral-safety-switch&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Fswitches-relays-and-sensors%2Fneutral-safety-switch&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/neutral-safety-switch"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/rv-battery&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Frv-battery&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/rv-battery"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/alternator-pulley&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Falternators-and-charging-system%2Falternator-pulley&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/alternator-pulley"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/batteries-starting-and-charging/alternator-universal&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbatteries-starting-and-charging%2Falternators-and-charging-system%2Falternator-universal&partNumberSearch=false",
+        "original_path": "/batteries-starting-and-charging/alternator-universal"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/brake-pads&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fdisc-brake-system%2Fbrake-pads&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/brake-pads"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/performance-brake-pads-rotors-kit&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fperformance-brake-kits%2Fperformance-brake-pads-rotors-kit&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/performance-brake-pads-rotors-kit"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/brake-rotor&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fdisc-brake-system%2Fbrake-rotor&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/brake-rotor"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/brake-caliper&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fdisc-brake-system%2Fbrake-caliper&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/brake-caliper"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/performance-brake-pads&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fdisc-brake-system%2Fperformance-brake-pads&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/performance-brake-pads"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/abs-sensor&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fabs-system%2Fabs-sensor&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/abs-sensor"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/brake-hose&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fbrake-lines-and-hoses%2Fbrake-hose&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/brake-hose"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/performance-brake-rotors&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fdisc-brake-system%2Fperformance-brake-rotors&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/performance-brake-rotors"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/brake-shoes-rear&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fdrum-brake-system%2Fbrake-shoes-rear&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/brake-shoes-rear"
+    },
+    {
+        "api_url": "https://www.autozone.com/external/product-discovery/browse-search/v1/product-shelves?country=USA&customerType=B2C&salesChannel=ECOMM&preview=false&canonicalPath=/brakes-and-traction-control/brake-shoes-rear&pageNumber=[PAGENUMBER]&recordsPerPage=48&taxonomyPath=/parts%2Fbrakes-and-traction-control%2Fdrum-brake-system%2Fbrake-shoes-rear&partNumberSearch=false",
+        "original_path": "/brakes-and-traction-control/brake-shoes-rear"
+    }
+]

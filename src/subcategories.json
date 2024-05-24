@@ -1,0 +1,338 @@
+[
+    {
+        "url": "/batteries-starting-and-charging/battery",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/alternator",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/starter",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/battery-terminal",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/battery-cable",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/ignition-switch",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/starter-relay",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/starter-solenoid",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/rv-battery",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/neutral-safety-switch",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/alternator-bearing",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/batteries-starting-and-charging/auxiliary-battery",
+        "parent": "/parts/batteries-starting-and-charging"
+    },
+    {
+        "url": "/12v-products/12-volt-socket-adapter",
+        "parent": "/interior-accessories/12v-products"
+    },
+    {
+        "url": "/12v-products/power-inverter",
+        "parent": "/interior-accessories/12v-products"
+    },
+    {
+        "url": "/12v-products/power-converter",
+        "parent": "/interior-accessories/12v-products"
+    },
+    {
+        "url": "/12v-products/universal-hot-pad-heater",
+        "parent": "/interior-accessories/12v-products"
+    },
+    {
+        "url": "/12v-products/seat-heating-pad",
+        "parent": "/interior-accessories/12v-products"
+    },
+    {
+        "url": "/logo-shop/new-orleans-saints",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/dallas-cowboys",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/san-francisco-49ers",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/philadelphia-eagles",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/las-vegas-raiders",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/kansas-city-chiefs",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/new-york-giants",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/denver-broncos",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/chicago-bears",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/pittsburgh-steelers",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/new-england-patriots",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/logo-shop/seattle-seahawks",
+        "parent": "/interior-accessories/logo-shop/nfl-merchandise"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/running-board",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/step-nerf-bar",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/running-board-mount-kit",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/step-nerf-bar-pad",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/running-board-mounting-bracket",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/truck-step",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/step-pad",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/running-board-end-cap",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/step-nerf-bar-mount-kit",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/running-board-motor",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/tire-step",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/running-boards-nerf-bars-and-steps/step-nerf-bar-kit",
+        "parent": "/truck-and-towing/running-boards-nerf-bars-and-steps"
+    },
+    {
+        "url": "/seat-covers-seats-and-accessories/seat-cover",
+        "parent": "/truck-and-towing/seat-cover-and-floor-mat"
+    },
+    {
+        "url": "/seat-cover-and-floor-mat/rug-utility-mat",
+        "parent": "/truck-and-towing/seat-cover-and-floor-mat"
+    },
+    {
+        "url": "/splash-guards-and-fender-flares/splash-guard",
+        "parent": "/truck-and-towing/splash-guards-and-fender-flares"
+    },
+    {
+        "url": "/splash-guards-and-fender-flares/fender-flare-extender",
+        "parent": "/truck-and-towing/splash-guards-and-fender-flares"
+    },
+    {
+        "url": "/splash-guards-and-fender-flares/fender-flare-hardware-kit",
+        "parent": "/truck-and-towing/splash-guards-and-fender-flares"
+    },
+    {
+        "url": "/splash-guards-and-fender-flares/fender-liner",
+        "parent": "/truck-and-towing/splash-guards-and-fender-flares"
+    },
+    {
+        "url": "/splash-guards-and-fender-flares/fender-vent",
+        "parent": "/truck-and-towing/splash-guards-and-fender-flares"
+    },
+    {
+        "url": "/heating-and-cooling/universal-radiator-heater-hose",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/performance-radiator-heater-hose",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/universal-engine-cooling-fan",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/engine-heater",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/antifreeze-coolant-tester",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/fan-speed-control-module",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/radiator-overflow-hose",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/cooler-installation-kit",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/radiator-and-fan-package",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/radiator-overflow-can",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/coolant-return-kit",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/heating-and-cooling/cooling-system-upgrade",
+        "parent": "/performance/heating-and-cooling"
+    },
+    {
+        "url": "/ignition-tune-up-and-routine-maintenance/performance-coil-ignition",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/ignition-system-control",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/distributor-tune-up-kit",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/heat-shield-sleeve",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/performance-spark-plug",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/power-programmer",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/performance-ignition-coil",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition-tune-up-and-routine-maintenance/perform-distributor-cap-rotor-kit",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/spark-plug-tube-insulator",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/crank-trigger",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/ignition/spark-plug-wire",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/electrical-and-lighting/switches",
+        "parent": "/performance/ignition"
+    },
+    {
+        "url": "/intake-system/air-intake-system",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/performance-air-filter",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/air-intake-components",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/universal-air-filter",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/performance-universal-air-cleaner",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/external-engine/performance-intake-manifold-gasket",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/performance-intake-manifold-gasket",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/intake-manifold-spacer-and-adapter",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/performance-intake-manifold",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/intake-air-temperature-sensor",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/intake-manifold-hardware",
+        "parent": "/performance/intake-system"
+    },
+    {
+        "url": "/intake-system/air-cleaner-adapter-kit",
+        "parent": "/performance/intake-system"
+    }
+]
