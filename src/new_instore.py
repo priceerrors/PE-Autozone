@@ -46,17 +46,18 @@ class ScrapeCatagory:
         # Iterate through the pages gathering products
         for page in range(2, total_pages + 2):
             products = self.request_api_base(api_url.replace("[PAGENUMBER]", str(page)), self.headers)
+            time.sleep(2)
 
             if products == None: print(f"{page} Has Unavalible Products")
             else: self.save_product_data(products)
 
-            print(f"{page}/{total_pages}")
+            print(f"{page}/{total_pages+1}")
         
         if self.generate_product_pricing() == None:
             pass
         else:
+            print(f"[Autozone] Uploading {len(products)} Products to Database")
             for product in self.products_list:
-                
                 database.save_product(product)
 
     def generate_product_pricing(self) -> None:
