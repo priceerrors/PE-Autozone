@@ -11,6 +11,7 @@ class ScrapeCatagory:
     def __init__(self) -> None:
         self.products_list = [ ]
         self.sale_products_list = [ ]
+        self.send_deal = [ ]
         self.headers = {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'accept-language': 'en-US,en;q=0.9','cache-control': 'max-age=0', 'sec-ch-ua': '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform': '"Android"', 'sec-fetch-dest': 'document', 'sec-fetch-mode': 'navigate', 'sec-fetch-site': 'none', 'sec-fetch-user': '?1', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36'}
         self.cookies = {'eCookieId': f"{self.generate_cookie_id()}",}
 
@@ -60,7 +61,7 @@ class ScrapeCatagory:
 
         self.check_duplicates()
 
-        for product in self.sale_products_list:
+        for product in self.send_deal:
             discord_handler.send_webhook(product)
     
 
