@@ -1,5 +1,7 @@
 from discord_webhook import DiscordWebhook, DiscordEmbed
 import time
+import requests
+import os
 
 
 def calculate_discount( original_price: float, sale_price: float ) -> float:
@@ -11,6 +13,7 @@ def calculate_discount( original_price: float, sale_price: float ) -> float:
 
 
 def send_webhook( product: list ) -> None:
+    print("sending hook")
     discount = calculate_discount(product['old_price'], product['price'])
 
     if int(discount) > 0 and int(discount) <= 49:
@@ -30,7 +33,22 @@ def send_webhook( product: list ) -> None:
     embed.add_embed_field(name="Part Number", value=f"``{product['part_number']}``")
     embed.add_embed_field(name="SKU", value=f"``{product['sku']}``")
     embed.add_embed_field(name="Online Stock", value=f"``{product['shipping_quantity']}``")
-    embed.set_thumbnail(url=product['image'].replace("http", "https"))
+
+    # # Download the image locally
+    # image_filename = os.path.basename(product['image'])
+    # print(product['image'])
+    # image_path = f"../database/images/{image_filename}"  # Replace with the desired save path
+    # response = requests.get(product['image'])
+    # with open(image_path, 'wb') as f:
+    #     f.write(response.content)
+
+    # # Attach the image to the embed
+    # embed.set_image(url=f"attachment://{image_filename}")
+
+    # # Delete the image from saved
+    # os.remove(image_path)
+
+
     embed.set_footer(text="AutoZone Monitor Powered by PriceErrors")
     webhook.add_embed(embed)
 

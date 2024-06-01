@@ -84,16 +84,16 @@ class ScrapeCatagory:
 
                 elif saved_products_data[product["sku"]] != product["price"]:
                     saved_products_data[product["sku"]] = product["price"]
+                    self.send_deal.append(product)
                     print(f"[Autozone] Product {product['sku']} Already Exists | Different Price | Updating")
 
             else:
                 saved_products_data[product["sku"]] = product["price"]
+                self.send_deal.append(product)
                 print(f"[Autozone] Product {product['sku']} Added to Database")
         
         with open("../database/sent_products.json", "w") as saved_products_file:
             json.dump(saved_products_data, saved_products_file, indent=4)
-
-
 
 
 
@@ -114,6 +114,7 @@ class ScrapeCatagory:
 
         # Batch the product skus into groups of 24
         batched_skus = [product_skus_querry[i:i+24] for i in range(0, len(product_skus_querry), 24)]
+        print(f"[Autozone] Sending Pricing Request for {len(product_skus_querry)} Batches")
 
         # Iterate through each batch and make the pricing API request
         for batch in batched_skus:
